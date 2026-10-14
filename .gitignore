@@ -1,0 +1,10 @@
+# Compiled class files
+bin/
+*.class
+
+# Serialized data / temporary files
+*.ser
+*.log
+sources.txt
+.idea/
+*.iml
